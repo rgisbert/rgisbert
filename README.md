@@ -1,16 +1,27 @@
 ### Hello World 🌍
 
-<!--
-**rgisbert/rgisbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Ramón, estudié 2 CFGS de Informática y he continuado mejorando mis habilidades.
 
-Here are some ideas to get you started:
+Conocimientos en:
+-  JavaScript: Node, Nest, Vue.
+-  TypeScript
+-  Python: Django
+-  GIT
+-  HTML / CSS
+-  SQL: Postgres
+-  NoSQL: Mongo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Respecto a idiomas, aparte de los maternos 🇪🇸 Español y Valenciano, también tengo conocimientos de 🇬🇧 inglés.
+
+En mi GitHub podrás encontrar:
+
+- Node:
+  - (API Fuel Price)[https://github.com/rgisbert/api-fuel-price]: prueba técnica que hice para una entrevista.
+ 
+- Nuevas funcionalidades:
+  - (View Transition API)[https://github.com/rgisbert/view-transition-api-example]: vi esta nueva funcionalidad en algunos canales de YouTube y quise probarla.
+ 
+
+Ampliaré según aumente mis conocimientos.
+
+¡Gracias por pasarte por aquí 😄!
