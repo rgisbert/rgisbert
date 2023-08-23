@@ -16,10 +16,10 @@ Respecto a idiomas, aparte de los maternos 🇪🇸 Español y Valenciano, tambi
 En mi GitHub podrás encontrar:
 
 - Node:
-  - (API Fuel Price)[https://github.com/rgisbert/api-fuel-price]: prueba técnica que hice para una entrevista.
+  - [API Fuel Price](https://github.com/rgisbert/api-fuel-price): prueba técnica que hice para una entrevista.
  
 - Nuevas funcionalidades:
-  - (View Transition API)[https://github.com/rgisbert/view-transition-api-example]: vi esta nueva funcionalidad en algunos canales de YouTube y quise probarla.
+  - [View Transition API](https://github.com/rgisbert/view-transition-api-example): vi esta nueva funcionalidad en algunos canales de YouTube y quise probarla.
  
 
 Ampliaré según aumente mis conocimientos.
